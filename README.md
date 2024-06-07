@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MaldonadoAlfonso
 - 👀 I’m interested in data analysis, demography & forecasting.
 - 🌱 I’m currently learning Python, R, SQL & more.
-- 💞️ I’m looking to collaborate on projects focused on population, housing, and households, and other fun macro variables from Puerto Rico and the world.
+- 💞️ I’m looking to collaborate on projects focused on population, housing, households, & other fun macro variables from Puerto Rico & the world.
 - 📫 How to reach me: a.maldonado.business [at] gmail [dot] com
 
 
